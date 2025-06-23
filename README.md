@@ -1,4 +1,4 @@
-👋 Hi, I’m BhagavanPavan
+👋 Hi, I’m Bhagavan Pavan
 
 👀 I’m interested in frontend development, UI/UX design, and software development.
 
