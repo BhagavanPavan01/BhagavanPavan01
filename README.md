@@ -2,7 +2,7 @@
 
 👀 I’m interested in frontend development, UI/UX design, and software development.
 
-🌱 I’m currently learning advanced JavaScript, React, and backend integration.
+🖥️ I’m currently learning advanced JavaScript, React, and backend integration.
 
 💞️ I’m looking to collaborate on web development projects, resume builders, and UI/UX design improvements.
 
