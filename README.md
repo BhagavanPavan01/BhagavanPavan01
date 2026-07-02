@@ -127,7 +127,7 @@ A web application for managing attendance records using Local Storage with role-
 
 🌐 **Portfolio:** https://bhagavanpavan-portfolio.netlify.app/
 
-💼 **LinkedIn:** *Add your LinkedIn profile here*
+💼 **LinkedIn:** [https://www.linkedin.com/in/bhagavan-pavan-227857253](https://www.linkedin.com/in/bhagavan-pavan-227857253)
 
 💻 **GitHub:** https://github.com/BhagavanPavan01
 
