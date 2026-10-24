@@ -265,7 +265,8 @@ A web-based application designed to manage and track student attendance records 
 
 **JNTU Gurajada Vizianagaram**
 
-**2024 – Present**
+**2024 – 2026**
+**GPA: 8.30 / 10.0**
 
 ---
 
